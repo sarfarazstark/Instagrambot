@@ -45,13 +45,9 @@ async def login(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/SarfarazStark'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/BlueWhalebots")
 					],
-                    [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
-                    ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
 
@@ -173,13 +169,9 @@ async def logout(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/SarfarazStark'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/BlueWhalebots")
 					],
-                    [
-                        InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
-                    ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin")
 
