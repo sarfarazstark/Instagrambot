@@ -70,7 +70,7 @@ Example: /followers samantharuthprabhuoffl
 ```
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarfarazstark/Instagrambot)
 
 Watch This [Video](https://youtu.be/aVkmoVPSOYI) Tutorial For Better Understanding.
 
@@ -82,7 +82,7 @@ For Generating Session after deployment, You Must leave the Variable as blank an
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/Instagram-Bot
+git clone https://github.com/sarfarazstark/Instagrambot
 cd Instagram-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -109,7 +109,7 @@ Fork the repo, Do not Import code.
 
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://telegram.dog/SarfarazStarkbot)
 
 
 ```
